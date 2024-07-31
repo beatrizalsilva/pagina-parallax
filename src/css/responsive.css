@@ -1,19 +1,19 @@
-/* após 785px começa a quebrar
-    dar um jeito para arrumar o texto que está vazando para a imagem
-*/
-
 @media (max-width: 690px) {
     .text {
-        padding: 0 20px;
+        padding: 0 10px; 
     }
 
     .parallax {
         background-attachment: scroll;
-        min-height: 300px;
+        min-height: 260px;
     }
 
     h1, h2 {
-        font-size: 1.5em;
-        margin-bottom: 0.5rem;
+        font-size: 1.2rem;
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 0.9rem;
     }
 }

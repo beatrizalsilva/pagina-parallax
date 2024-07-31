@@ -14,7 +14,7 @@ main {
 }
 
 section{
-    height: 370px;
+    height: 350px;
     padding: 40px;
     background-color: #F1F1F1;
 
@@ -29,7 +29,7 @@ h1 {
 
 h2 {
     font-weight: 600;
-    margin-bottom: 0.5rem;
+    margin-bottom: 8px;
 }
 
 p {
